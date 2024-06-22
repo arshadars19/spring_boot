@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SPRINGBOOT<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning DSA
+🔭 I’m currently working on JAVA + SPRING BOOT<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning JAVA FULLSTACK
 
 
 ## 🌐 Socials:
